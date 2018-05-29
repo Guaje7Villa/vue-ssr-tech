@@ -1,0 +1,22 @@
+{
+    "name": "vue-ssr-tech",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Guaje7Villa/vue-ssr-tech.git"
+    },
+    "author": "Guaje7Villa",
+    "license": "ISC",
+    "dependencies": {
+        "css-loader": "^0.28.11",
+        "vue": "^2.5.16",
+        "vue-loader": "^15.2.1",
+        "vue-template-compiler": "^2.5.16",
+        "webpack": "^4.9.1"
+    }
+}
