@@ -8,7 +8,6 @@ export default {
     return {
       text:'abc'
     }
-    
   }
 }
 </script>
